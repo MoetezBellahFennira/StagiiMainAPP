@@ -23,7 +23,7 @@ Follow this instruction to clone and run the dev envirenemont :
 
 1- Clone the repo by using this command on your favorite terminal :
 
-`mkdir stagii && git clone https://github.com/firasjaber/stagii.git stagii`
+`mkdir stagii && git clone hhttps://github.com/MoetezBellahFennira/StagiiMainAPP.git stagii`
 
 2- Install the needed dependencies on frontend and backend by running those two commands from stagii directory
 
